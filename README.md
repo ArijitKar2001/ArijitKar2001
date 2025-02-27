@@ -2,52 +2,66 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Arijit Karmakar**, a passionate and dedicated software developer with expertise in **full-stack web development**. My primary focus is on building efficient, scalable, and user-friendly applications using modern technologies. I thrive on challenges and love exploring the latest trends in technology.
+Hi, I'm **Arijit Karmakar**, a passionate and dedicated software developer with expertise in **full-stack web development** and **machine learning**. My primary focus is on building efficient, scalable, and user-friendly applications using modern technologies. I thrive on challenges and love exploring the latest trends in technology, from web development to cloud computing and data science.
 
 ---
 
 ## 🌟 Skills and Technologies
 
-### Frontend Development
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React, Next.js
-- **Styling**: Tailwind CSS, Bootstrap, Styled Components
+### **Programming Languages**
+- JavaScript, TypeScript, Java, Python
 
-### Backend Development
-- **Languages**: Node.js, Java, C
-- **Frameworks**: Express.js
-- **Databases**: MongoDB, PostgreSQL, MySQL
+### **Frontend Development**
+- HTML, CSS, TailwindCSS, React.js, Next.js, EJS
 
-### Tools & Platforms
-- Git, GitHub
-- Docker
-- Redis
-- AWS (Basics)
-- WebSocket (Socket.IO)
+### **Backend Development**
+- Node.js, Express.js, REST APIs, Auth.js
+
+### **Databases**
+- MongoDB, Mongoose, Redis
+
+### **DevOps & Cloud**
+- Docker, AWS (basic), Git, GitHub
+
+### **Machine Learning**
+- Scikit-learn, Pandas, Matplotlib
+
+### **Other Skills**
+- Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 
 ---
 
 ## 🚀 Projects
 
-### 1. **Bitcoin Price Prediction using ML**
-- **Description**: Analyzed historical Bitcoin data to predict future prices using machine learning algorithms like Linear Regression, KNN Regression, SVR, Random Forest, and XGBoost.
+### 1. **Bitcoin Price Prediction using Machine Learning**
+- **Description**: Analyzed historical Bitcoin data to predict future prices using machine learning algorithms like **Linear Regression**, **KNN Regression**, **SVR**, **Random Forest**, and **XGBoost**.
 - **Key Features**:
-  - Data preprocessing and noise removal
-  - Dickey-Fuller test for stationarity
-  - Feature extraction and splitting for training/testing
+  - Data preprocessing and noise removal.
+  - Dickey-Fuller test for stationarity.
+  - Feature extraction and splitting for training/testing.
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib
 
+[View Project](#) *(Replace with actual link to the project repository)*
+
+---
+
 ### 2. **Full-Stack E-commerce Application**
-- **Description**: Developed a complete e-commerce web application with product browsing, cart management, and secure checkout.
+- **Description**: Developed a complete e-commerce web application with features like product browsing, cart management, and secure checkout.
 - **Key Features**:
-  - User authentication and authorization
-  - Dynamic product filtering
-  - Integrated payment gateway
+  - User authentication and authorization.
+  - Dynamic product filtering.
+  - Integrated payment gateway.
 - **Tech Stack**: Node.js, React, MongoDB
+
+[View Project](#) *(Replace with actual link to the project repository)*
+
+---
 
 ### 3. **Personal Expense Tracker**
 - **Description**: A web app to manage daily expenses, with the ability to add, update, and delete records.
 - **Tech Stack**: React, Cloud Firestore
+
+[View Project](#) *(Replace with actual link to the project repository)*
 
 ---
 
@@ -60,18 +74,18 @@ Hi, I'm **Arijit Karmakar**, a passionate and dedicated software developer with 
 
 ## 📫 Connect With Me
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **Email**: your.email@example.com
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername) *(Replace with your GitHub profile link)*
+- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) *(Replace with your LinkedIn profile link)*
+- **Portfolio**: [yourportfolio.com](https://yourportfolio.com) *(Replace with your portfolio link)*
+- **Email**: your.email@example.com *(Replace with your email)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Arijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Arijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) *(Replace `yourusername` with your actual GitHub username)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) *(Replace `yourusername` with your actual GitHub username)*
 
 ---
 
@@ -87,4 +101,4 @@ I love to explore new technologies and share knowledge with fellow developers. Y
 
 ---
 
-
+*This README was last updated on: October 2023* *(Update the date as needed)*
