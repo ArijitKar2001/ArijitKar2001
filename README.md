@@ -1,6 +1,7 @@
 # **Welcome to My GitHub Profile** 👋
 
 
+
 Hi, I'm **Arijit Karmakar**, a passionate and dedicated software developer with expertise in **full-stack web development** and **machine learning**. My primary focus is on building efficient, scalable, and user-friendly applications using modern technologies. I thrive on challenges and love exploring the latest trends in technology, from web development to cloud computing and data science.
 
 ---
