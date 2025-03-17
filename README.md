@@ -1,6 +1,6 @@
 <h1 style="border-bottom: none;">👋 Hi there, I'm Arijit Karmakar!</h1>
 
-I am a **full-stack developer**. With a strong focus on crafting efficient, scalable, and user-centric applications, I leverage cutting-edge technologies to deliver robust solutions that meet both business and user needs.
+A **full-stack developer**. With a strong focus on crafting efficient, scalable, and user-centric applications, I leverage cutting-edge technologies to deliver robust solutions that meet both business and user needs.
 
 ### 🚀 When I Code, I Rely On ⤵️
 
