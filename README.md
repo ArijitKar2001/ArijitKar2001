@@ -24,7 +24,7 @@ A **full-stack developer**. With a strong focus on crafting efficient, scalable,
   - **Hooks** – Using React Hooks for functional components.
 
 
-## 🌱 **What I'm Currently Learning**
+## ✍🏻 **What I'm Currently Learning**
 
 - **Advanced React Patterns** – Performance optimization, custom hooks, and state management best practices.
 - **AI Integration in Applications** – Leveraging AI/ML models to enhance user experience and automation.
