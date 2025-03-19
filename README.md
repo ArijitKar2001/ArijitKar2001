@@ -15,20 +15,20 @@ A **full-stack developer**. With a strong focus on crafting efficient, scalable,
 
 - Successfully completed an in-depth **MERN Stack** training program.
 - Gained **hands-on project experience** in :
-  - ⚛️ **React.js** – Building dynamic UI components & SPAs.
-  - 📦 **State Management** – Managing app state with **Redux** & Context API.
-  - 🖥️ **Responsiveness** – Creating mobile-friendly & adaptive designs.
-  - 🟢 **Node.js & Express.js** – Backend development, authentication, and middleware.
-  - 🔗 **REST APIs** – Developing & consuming APIs for data exchange.
-  - 🍃 **MongoDB & Mongoose** – Database management, **MongoDB Pipelines**, and aggregations.
-  - ⚡ **Hooks** – Using React Hooks for functional components.
+  - **React.js** – Building dynamic UI components & SPAs.
+  - **State Management** – Managing app state with **Redux** & Context API.
+  - **Responsiveness** – Creating mobile-friendly & adaptive designs.
+  - **Node.js & Express.js** – Backend development, authentication, and middleware.
+  - **REST APIs** – Developing & consuming APIs for data exchange.
+  - **MongoDB & Mongoose** – Database management, **MongoDB Pipelines**, and aggregations.
+  - **Hooks** – Using React Hooks for functional components.
 
 
 ## 🌱 **What I'm Currently Learning**
 
-- ⚛️ **Advanced React Patterns** – Performance optimization, custom hooks, and state management best practices.
-- 🤖 **AI Integration in Applications** – Leveraging AI/ML models to enhance user experience and automation.
-- 📊 **Machine Learning in Real-World Projects** – Implementing ML algorithms for data-driven applications.
+- **Advanced React Patterns** – Performance optimization, custom hooks, and state management best practices.
+- **AI Integration in Applications** – Leveraging AI/ML models to enhance user experience and automation.
+- **Machine Learning in Real-World Projects** – Implementing ML algorithms for data-driven applications.
 
 
 ## 💬 **Connect With Me**
