@@ -37,7 +37,7 @@ A **full-stack developer** passionate about crafting **efficient, scalable, and 
   - **REST API Development** – Efficient data exchange.  
   - **React Hooks** – Optimized functional components.  
 
-**🔗 Projects:** [GitHub Repositories](https://github.com/arijit-karmakar)  
+**🔗 Certificate:** [![Backend Certificate](https://img.shields.io/badge/-Backend_Using_Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://certificate.codingninjas.com/view/3ce979058c69856d) 
 
 ---
 
