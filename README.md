@@ -24,13 +24,13 @@ A **full-stack developer**. With a strong focus on crafting efficient, scalable,
   - **Hooks** – Using React Hooks for functional components.
 
 
-## ✍🏻 **What I'm Currently Learning**
+# ✍🏻 **What I'm Currently Learning**
 
 - **Advanced React Patterns** – Performance optimization, custom hooks, and state management best practices.
 - **AI Integration in Applications** – Leveraging AI/ML models to enhance user experience and automation.
 - **Machine Learning in Real-World Projects** – Implementing ML algorithms for data-driven applications.
 
 
-## 💬 **Connect With Me**
+# 💬 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-karmakar-a121701b6) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername) [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
