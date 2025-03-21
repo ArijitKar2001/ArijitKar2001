@@ -64,4 +64,4 @@ A **full-stack developer** passionate about crafting **efficient, scalable, and 
 
 ## 🎯 **Fun Fact About Me**  
 
-_"When I'm not coding, you'll find me solving DSA problems, exploring new tech trends, or brainstorming innovative project ideas!"_  
+_When I'm not coding, you'll find me solving DSA problems, exploring new tech trends, or brainstorming innovative project ideas! or Playing video games..😉_  
