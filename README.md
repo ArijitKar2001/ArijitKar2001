@@ -33,13 +33,13 @@ A **full-stack developer** passionate about crafting **efficient, scalable, and 
   - **REST API Development** – Efficient data exchange.  
   - **React Hooks** – Optimized functional components.  
 
-**🔗 Certificates** 
-[![Backend with Node.js](https://img.shields.io/badge/-Backend_Using_Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://certificate.codingninjas.com/view/3ce979058c69856d)
-[![React Certificate](https://img.shields.io/badge/-React_Certificate-61DAFB?style=flat&logo=react&logoColor=black)](https://your-react-certificate.com)
-[![Frontend Certificate](https://img.shields.io/badge/-Frontend_Certificate-FF6C37?style=flat&logo=html5&logoColor=white)](https://your-frontend-certificate.com)
-[![DBMS Certificate](https://img.shields.io/badge/-DBMS_Certificate-4479A1?style=flat&logo=mysql&logoColor=white)](https://your-dbms-certificate.com)
-[![OS Certificate](https://img.shields.io/badge/-OS_Certificate-0078D6?style=flat&logo=windows&logoColor=white)](https://your-os-certificate.com)
-[![Java Certificate](https://img.shields.io/badge/-Java_Certificate-007396?style=flat&logo=openjdk&logoColor=white)](https://your-java-certificate.com)
+**🔗 Certificates**
+- [![Backend with Node.js](https://img.shields.io/badge/-Backend_Using_Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://certificate.codingninjas.com/view/3ce979058c69856d)
+- [![React Certificate](https://img.shields.io/badge/-React_Certificate-61DAFB?style=flat&logo=react&logoColor=black)](https://your-react-certificate.com)
+- [![Frontend Certificate](https://img.shields.io/badge/-Frontend_Certificate-FF6C37?style=flat&logo=html5&logoColor=white)](https://your-frontend-certificate.com)
+- [![DBMS Certificate](https://img.shields.io/badge/-DBMS_Certificate-4479A1?style=flat&logo=mysql&logoColor=white)](https://your-dbms-certificate.com)
+- [![OS Certificate](https://img.shields.io/badge/-OS_Certificate-0078D6?style=flat&logo=windows&logoColor=white)](https://your-os-certificate.com)
+- [![Java Certificate](https://img.shields.io/badge/-Java_Certificate-007396?style=flat&logo=openjdk&logoColor=white)](https://your-java-certificate.com)
 
 
 ---
