@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Arijit Karmakar!
 
-> **Software Developer | Full-Stack Engineer | Enterprise Solutions**
+> **Software Developer**
 
-I am a passionate **Software Developer** based in Kolkata, dedicated to crafting efficient, scalable, and user-centric applications. My recent work focuses on developing robust enterprise solutions, including **ERP systems** and secure **banking service platforms**, bridging the gap between complex business logic and seamless user experiences. 
+I am a **Software Developer**, dedicated to crafting efficient, scalable, and user-centric applications. My recent work focuses on developing robust enterprise solutions, including **ERP systems** and secure **banking service platforms**, bridging the gap between complex business logic and seamless user experiences. 
 
 Whether I'm engineering a backend architecture, crafting cross-platform mobile apps, or building custom desktop utility tools to optimize my workflow, I love turning complex problems into elegant code.
 
