@@ -62,8 +62,3 @@ Whether I'm engineering a backend architecture, crafting cross-platform mobile a
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arijitkarmakar) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/arijitkarmakar) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com) 
-
----
-
-## 🎯 **Beyond the Code**
-_When I'm away from the keyboard, you'll likely find me analyzing stock market trends for swing trading, optimizing my workspace layout, or kicking back with some video games! 😉_
